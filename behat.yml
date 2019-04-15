@@ -3,3 +3,5 @@ default:
         jarnaiz\JUnitFormatter\JUnitFormatterExtension:
             filename: report.xml
             outputDir: %paths.base%/results
+
+# test
